@@ -1,17 +1,18 @@
 const projectsdata = [
     {
-      title: "SANJAY",
-      image: "./ecommerce.svg",
+      title: "Taskmanager",
+      image: "./taskapp.svg",
       description:
-        "I am sanjay from kamaraj college of engineering and technology",
-      link: "https://www.youtube.com/",
+        "This is a Task manager app which has basic CRUD operations. It is developed using Nodejs and MongoDB",
+      link: "https://whispering-earth-13574.herokuapp.com/",
     },
     {
-      title: "karthik",
-      image: "./pizzas.svg",
+      title: "NodeMail Wisher",
+      image: "./wisher.svg",
       description:
-        "I am karthik from kamaraj college of engineering and technology",
-      link: "https://www.google.com/",
+        "The main objective is to wish people on their special occasion automatically via gmail using Node js+MySql ",
+         
+      link: "https://node-wisher.herokuapp.com/",
     },
     
   ];
