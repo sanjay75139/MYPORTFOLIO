@@ -14,6 +14,14 @@ const projectsdata = [
          
       link: "https://node-wisher.herokuapp.com/",
     },
+    {
+      title: "E-bag Shop",
+      image: "./ecommerce.svg",
+      description:
+        "This is a e-shopping website developed using node js and MongoDB",
+         
+      link: "https://best-bags.herokuapp.com/",
+    },
     
   ];
 
