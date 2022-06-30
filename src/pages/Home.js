@@ -101,7 +101,7 @@ function Home() {
               <p>ReactDOM</p>
 
               <p>Redux</p>
-              <p>Angular</p>
+              <p>React js</p>
             </div>
           </div>
 
